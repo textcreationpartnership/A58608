@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Committee of Estates concerning their proceedings in opposition to the late unlawfull engagement against England</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58608</idno>
+            <idno type="STC">Wing S1206</idno>
+            <idno type="STC">ESTC R34037</idno>
+            <idno type="EEBO-CITATION">13662682</idno>
+            <idno type="OCLC">ocm 13662682</idno>
+            <idno type="VID">101132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Committee of Estates concerning their proceedings in opposition to the late unlawfull engagement against England</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Mr. Tho. Henderson.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101132:1"/>
+            <pb facs="tcp:101132:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE COMMITTEE OF ESTATES, Concerning Their Proceedings, in oppoſition to the late unlawfull Engagement againſt ENGLAND.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt excellent Majeſty, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:101132:2"/>
+            <pb n="1" facs="tcp:101132:2" rendition="simple:additions"/>
+            <head>A <hi>DECLARATION</hi> of the Committee of Estates concerning their proceedings in oppoſition to the late unlawfull En<g ref="char:EOLhyphen"/>gagement againſt <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He manifold dangers to Religion, to the Kings Majeſty, to our Laws and Liberties, and to the Peace of theſe Kingdomes are ſo manifeſt, that they cannot be hid from any, who will not wilfully ſhut their eyes againſt a clear light, and the remedies which we have taken in this ex<g ref="char:EOLhyphen"/>tremity will, we doubt not, be judged by all men of common equity and underſtanding, to have been moſt neceſſary for preſerving Religion from ruine, and our Selves from ſlavery and oppreſſion; Yet to prevent miſinformation and miſconſtructions, we have thought fit to publiſh a ſhort narration of the Cauſes of our late undertaking to riſe in Armes, of our proceedings by way of Treaty with thoſe that joyned in Armes for the late engagement againſt <hi>England,</hi> and of our Reſo<g ref="char:EOLhyphen"/>lutions for ſetling Religion, and the Peace of this di<g ref="char:EOLhyphen"/>ſtracted Kingdome, and ſtrenthning the Union betwixt the Kingdomes, which are the beſt foundations of Honour and happineſſe to the King, whoſe throne
+<pb n="2" facs="tcp:101132:3"/>we deſire may be eſtabliſhed in Righteouſneſſe.</p>
+            <p>When we look back upon ſome proceedings in our neighbour Nation, though there we ſee that the work of Reformation hath been much obſtructed, and many things have been done of which we cannot approve, and wherewith God was highly diſpleaſed; yet we finde the Fountain and Spring of all our troubles, mainly to ariſe at home, from the craft and malice of our natives and Countreymen. For notwithſtanding the Right Honourable Houſes of the Parliament of <hi>England,</hi> had offered by their Commiſſioners to remove all differen<g ref="char:EOLhyphen"/>ces which had ariſen betwixt them &amp; Us, &amp; to do what ever was juſt and Honourable for the ſatisfaction of this Kingdome; And further, had declared their readi<g ref="char:EOLhyphen"/>neſſe to joyn with this Kingdome in the Propoſitions agreed on by both Kingdomes preſented to the King at <hi>Hampton-Court,</hi> for the making ſuch further proceed<g ref="char:EOLhyphen"/>ings thereupon as ſhould be thought fit for the ſpeedy ſetlement of the Peace of both Kingdomes and pre<g ref="char:EOLhyphen"/>ſervation of the Union according to the Covenant and Treaties. And further, to give ſatisfaction in all things which ſhould be judged neceſſary for the Peace of both Kingdomes, not intrinching upon the particular intereſt of the Kingdome and Priviledges of the Parliament of <hi>England;</hi> yet many of this Nation having entred into a ſinfull Aſſociation, and wicked combination, did joyn together in Armes under the command of the Duke of <hi>Hamiltoun,</hi> for purſuance of an unlawfull Engagement againſt our Neighbour Nation of <hi>England,</hi> contrary to the ends of the ſolemn League and Covenant, the ma<g ref="char:EOLhyphen"/>nifold admonitions and exhortations of all the faithfull Miniſters of the Goſpel, the warnings and Declarations
+<pb n="3" facs="tcp:101132:3" rendition="simple:additions"/>of the Commiſſion of the Generall Aſſembly 1647. As likewiſe againſt the unanimous proceedings of the late Generall Aſſembly in this year 1648. againſt the Judgement and Proteſtations of many members of Parliament, who have been moſt conſtant in the Cauſe, and to preſerve the Union betwixt the Kingdomes, and generally againſt the minds and judgements of all the wel-affected in the Kingdome. And further, brought over from <hi>Ireland</hi> ſome Regiments of the Scots Army to joyn with them in this Engagement, contrary to the Treaty betwixt the Kingdomes of the ſeventh of <hi>July,</hi> 1642. And having joyned in an unlawfull Aſſociation with the Malignants of <hi>England,</hi> did employ ſome of them to ſurprize and take the Garriſons of <hi>Berwick</hi> and <hi>Carlile,</hi> (and yet profeſſed openly before the World they were ignorant who had done it) contrary to the large Treaty betwixt the Kingdomes, and the Treaty of the 29 of <hi>November</hi> 1643. And when by miſerable and cruell oppreſſion of the people of God in this Kingdome, they had gathered together a numerous Army, they took poſſeſſion of the Garriſons of <hi>Berwick</hi> and <hi>Carlile,</hi> and in a Hoſtile manner entered into our Neighbour Nation, where the Lord of Hoſts poured forth his Wrath and Indignation upon them, for their lies and hypocriſie, as was before threatned by many of the faithfull ſervants of God in this Kingdome.</p>
+            <p>While theſe men were invading <hi>England,</hi> the Earl of <hi>Lanrick</hi> and others engaged in the ſame deſigne, ſtayed at home to oppreſſe this Kingdome, and under a pre<g ref="char:EOLhyphen"/>tence of raiſing a Guard for the Prince, did begin a new Levy of Forces, whereby they might be able to ſend ſupply to their Army in <hi>England</hi> if need were, but prin<g ref="char:EOLhyphen"/>cipally
+<pb n="4" facs="tcp:101132:4"/>to bear down the godly and welaffected in this Kingdome, and force upon them unlawfull Bands and Oathes, which they deviſed to be Ingines and Snares to compell men to make Shipwrack of their conſcien<g ref="char:EOLhyphen"/>ces, by joyning with all their wicked wayes, or in caſe they refuſed to take thoſe accurſed Oathes, and ſubſcribe their Bands, that then they might not onely be uncapa<g ref="char:EOLhyphen"/>ble of all publick truſt, but be eſteemed and uſed as ene<g ref="char:EOLhyphen"/>mies to Religion, King and Kingdome, and ſo every way to oppreſſe all honeſt men in their perſons, Eſtates and Conſciences, as nothing was to be expected from their Government to theſe who deſired to fear the Lord, and adhere to their firſt Principles, but Slavery and ruin; for they having adjourned the Parliament till <hi>March</hi> 1650. Had aſſumed to themſelves an arbitrary Power, that in the mean time they might rule at their pleaſure, and make ſuch alterations in the Kingdome as they thought fit. Upon news of the defeat of their Ar<g ref="char:EOLhyphen"/>my, they did give out Commiſſions to prime Incendia<g ref="char:EOLhyphen"/>ries, and encouraged ſuch as were eminent and active in the Rebellion, under the conduct of <hi>James Graham,</hi> late Earl of <hi>Montroſe</hi> to riſe in Armes, and ſent directions to the Forces under the command of <hi>George Monro,</hi> which had invaded <hi>England,</hi> but were not preſent at the fight, and other Officers and Souldiers who eſcaped from it, to return to this Kingdome, that ſo by their conjuncti<g ref="char:EOLhyphen"/>on with the Forces lately raiſed, they might have a new Army on foot to proſecute their former deſigne, and to tyrannize over this Kingdome, as is evident from their letters of the 28 of <hi>Auguſt</hi> ſent to the Earl of <hi>Marſhall,</hi> Vicount of <hi>Dudhope, Clerke Regiſter,</hi> and <hi>George Monro</hi> (ten dayes after the defeat of their Army in <hi>England</hi>)
+<pb n="5" facs="tcp:101132:4" rendition="simple:additions"/>wherein ſpeaking of the Engagement, they declare their Reſolution to recruit their Regiments, and to ha<g ref="char:EOLhyphen"/>zard their Lives and Fortunes, and all that was deareſt unto them for carrying on againſt all oppoſition what<g ref="char:EOLhyphen"/>ſoever that pious and loyall Service, and that they and many others of this Kingdom did intend not to live and out-live it: By all which, and many other their like proceedings expreſſed in the Declarations of the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly and their Commiſsioners, it is ſuffici<g ref="char:EOLhyphen"/>ently evident that Religion hath not onely been endan<g ref="char:EOLhyphen"/>gered, but the whole work of Reformation in theſe Kingdoms for theſe ten years paſt hath been very near to be wholly overturned, our Laws and Liberties al<g ref="char:EOLhyphen"/>moſt deſtroyed, Authority weakened, the perſon of the King put in hazard, and his reſtitution (which they pretended) rendred more difficult, and endeavours uſed to break the Union and peace betwixt the Kingdoms, and to continue (ſo far as was in their power) a laſting War betwixt this Kingdom and our neighbour Na<g ref="char:EOLhyphen"/>tion with whom we are joyned in Covenant.</p>
+            <p>This being the true eſtate of affairs, We did finde it moſt neceſſary for us to joyn in Armes together a<g ref="char:EOLhyphen"/>gainſt theſe Covenant-breakers and their Adherents, who had invaded <hi>England,</hi> and were diſturbing the peace of this Kingdom (and who under a ſpecious pre<g ref="char:EOLhyphen"/>tence of ſeeking the Kings Honour, Freedom and Safe<g ref="char:EOLhyphen"/>ty, were ſeeking their own Honour and baſe private ends, and have made the Kings condition harder then ever it was before) this courſe being the onely means which was left us whereby to endeavour the preſerva<g ref="char:EOLhyphen"/>tion of Religion, our native Countrey, and the Peace and Union betwixt the Kingdoms, and our own con<g ref="char:EOLhyphen"/>ſciences
+<pb n="6" facs="tcp:101132:5"/>being ready to condemn us if we ſhould ſit ſtill and ſuffer Religion to be ruined, <hi>England</hi> to be further provoked (by detaining their Garriſons) and this King<g ref="char:EOLhyphen"/>dom to be enſlaved and brought under the yoke of a perpetuall bondage.</p>
+            <p>When we had put our ſelves in a poſture for our own defence neer <hi>Edinburgh,</hi> the Earl of <hi>Crawford,</hi> the Earl of <hi>Lanerk, George Monro,</hi> and other Commanders of the Forces joyned with them, having marched to <hi>In<g ref="char:EOLhyphen"/>neresk,</hi> ſent unto us ſome Articles upon which they de<g ref="char:EOLhyphen"/>ſired to Treat, for removing all differences betwixt us; but theſe Demands being very unreaſonable and incon<g ref="char:EOLhyphen"/>ſiſtent with Religion, the Covenant and Treaties be<g ref="char:EOLhyphen"/>twixt the Kingdoms, We refuſed to admit them to be the ſubject of a Treaty; yet were content if they had any other thing to propound which might conduce to the ſetling of Truth and Peace according to the Cove<g ref="char:EOLhyphen"/>nant, to appoint ſome from us to Treat with the like number authorized by them, at any place equally diſtant from both Armies, Whereupon they profeſſed a readi<g ref="char:EOLhyphen"/>neſſe to have all differences ended by a Treaty that an inteſtine War might be prevented; but they aſſigned ſo ſhort dyets for us to return our Anſwers about the ne<g ref="char:EOLhyphen"/>ceſſary circumſtances to be agreed on before a Treaty could begin, as the time was elapſed before we could be well conveened; and then they took the advantage of marching away, whileſt we continued in our Quar<g ref="char:EOLhyphen"/>ters in expectation of a Treaty, by which means they gained the paſſe at <hi>Sterling,</hi> and ſurprized our forces there, killing ſome, and taking others priſoners when they were in ſecurity, being advertiſed that there was a Treaty betwixt us: All this notwithſtanding, ſo de<g ref="char:EOLhyphen"/>ſirous
+<pb n="5" facs="tcp:101132:5" rendition="simple:additions"/>were we of the peace of this almoſt ruined King<g ref="char:EOLhyphen"/>dom, as paſſing over all the provocations given unto us; We readily entertained all proffers to Treat: And up<g ref="char:EOLhyphen"/>on the 14. of <hi>September,</hi> Commiſſioners on both ſides met at <hi>Woodſide,</hi> together with ſome Miniſters and El<g ref="char:EOLhyphen"/>ders from the Commiſsion of the Kirk, but after three dayes debate, that Treaty (during which their Army was grievouſly plundering the Countrey) produced little elſe but delays, they refuſing to accept of any con<g ref="char:EOLhyphen"/>ditions without rewards for their ſervice, Liberty to tranſport the Iriſh Forces in a body to <hi>Ireland,</hi> ſecurity for their Lives, Eſtates, Honours, Fortunes and places, and aſſurance that none who had been acceſſory to the late Engagement ſhould be queſtioned either by us, or by the Kingdom of <hi>England</hi> for any thing done by them in relation thereunto, which was impoſsible for us to grant without involving our ſelves in the guilt of the Engagement, and giving occaſion of quarrell againſt us to our neighbour Nation, in whoſe names we could promiſe nothing without their advice and conſent. And here we cannot but remark, that theſe Lords and others, who in Parliament and otherwiſe, pretended ſo great a zeal for his Majeſties Honour, Freedom and ſafety, yet in all their demands to us in this Treaty, they never made the leaſt deſire of any thing for the King, but were ready to cloſe an agreement with us when ever they could get ſatisfaction in what concerned their own Honour, Freedom and Intereſt.</p>
+            <p>So ſoon as we underſtood that the Forces of the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> were come to the Borders, for pur<g ref="char:EOLhyphen"/>ſuit of the common Enemy, and reducing the Garri<g ref="char:EOLhyphen"/>ſons of <hi>Berwick</hi> and <hi>Carlile,</hi> We wrote a Letter from
+<pb n="8" facs="tcp:101132:6"/>
+               <hi>Falkirk</hi> to the Commander in chief of theſe Forces, and ſent two from us with inſtructions to acquaint him with the eſtate of our affairs, particularly our proceedings in the Treaty, and to aſſure them that we would contribute our utmoſt endeavours for the reſtitution of the Towns of <hi>Berwick</hi> and <hi>Carlile</hi> to the Parliament of <hi>England</hi> to whom they do of right belong: In return whereunto we received from Lieut. Generall CROMVVELL a Letter to this purpoſe, That upon the defeat of the For<g ref="char:EOLhyphen"/>ces of the Duke of <hi>Hamiltoun</hi> they had received in command to proſecute the Victory untill the Enemy were put out of a condition or hope of growing into a new Army, and the Garriſons of <hi>Berwick</hi> and <hi>Carlile</hi> were reduced, in purſuance of which commands they had reſolved to advance into <hi>Scotland</hi> with their Army for obtaining their Garriſons, and that the common Enemy might be the ſooner brought to a ſubmiſsion to reaſonable conditions, withall ingaging themſelves that ſo ſoon as they ſhould know from us that the Enemy ſhould yeeld to theſe things we had propoſed to them, and the Garriſons of <hi>Berwick</hi> and <hi>Carlile</hi> were delivered, they ſhould fortwith depart out of this Kingdom: af<g ref="char:EOLhyphen"/>ter receipt of this Letter, We ſent ſome of our number with power and inſtructions to do their utmoſt endea<g ref="char:EOLhyphen"/>vour for obtaining the Towns of <hi>Berwick</hi> and <hi>Carlile</hi> to be ſurrendred to him for the uſe of the Honourable Houſes of the Parliament of <hi>England,</hi> and to repreſent our earneſt deſire and firme reſolution to preſerve invio<g ref="char:EOLhyphen"/>lable the Vnion betwixt the Kingdoms according to the Covenant and Treaties; and ſince they had reſolved in obedience to the Commands laid upon them, to ſend Forces into this Kingdom for purſuing the common
+<pb n="9" facs="tcp:101132:6" rendition="simple:additions"/>Enemy; therefore to deſire that theſe which ſhould be ſent, might be ſuch as would give no offence or ſcandall to the Miniſtrie and wel-affected in this Kingdome.</p>
+            <p>Upon the 18. of <hi>September</hi> ſome propoſitions were ſent unto us from thoſe at <hi>Sterling,</hi> to which we re<g ref="char:EOLhyphen"/>turned an Anſwer upon the 20. And after a new meeting at <hi>Kirkliſtoun</hi> with Commiſſioners from them, Articles of agreement were drawen up and ſubſcribed by the Commiſsioners on both ſides, which are now publiſhed in Print: In all which proceedings we have ſtudyed to ſet before our eyes the Honour of God, and the good of Religion, the preſervation of our Laws and Liberties, and of the Union betwixt the King<g ref="char:EOLhyphen"/>domes. And to the end it may further appear to this Kingdome and to all the World, that no ſiniſter end or worldly deſign for ſelf-intereſt, hath ſtirred us up to this courſe, we do declare.</p>
+            <p>Firſt of all, that we have both matter of deep humiliation before God, and thankſgiving to him when we conſider his gratious diſpenſation towards us, in preſerving a remnant from following the evil courſes of the time, and that he was pleaſed ſo ſoon after a great defection and backſliding in the Land, to put us into a condition to reſiſt the Force and fury of our enemies, whom neither Chriſtian duty in ſo clear a Sunſhine of the Goſpel, nor naturall affection to their native Coun<g ref="char:EOLhyphen"/>try, could reſtrain from horrid impieties and intollerable oppreſſions. And we do freely acknowledge that it had been juſt with the Lord, to ſuffer us to lie ſtill un<g ref="char:EOLhyphen"/>der that Yoke of Bondage, which we had wreathed up<g ref="char:EOLhyphen"/>on our necks with our own hands, by compliance with Malignants and Malignant courſes, not truſting the
+<pb n="10" facs="tcp:101132:7"/>Lord with his own work, and reſting on his ſtrength, but following the rules of carnall policy, whenever we were brought into ſtraights. It is the deſire of our Souls that for the future we may amend, and it ſhall be be our conſtant ſtudie with Gods aſſiſtance, to avoid the rocks on which we were ready to ſplit, that we may neither upon the one hand put confidence in the Arm of fleſh, and other worldly advantages when things are proſperous, nor upon the other, comply with the ene<g ref="char:EOLhyphen"/>mies of the cauſe when we are low, but in all eſtates and conditions, to put our truſt in God Almighty the Lord of Hoſts, who alſo is onely wiſe to give Counſell.</p>
+            <p>Secondly, that whatſoever Power God hath already, or ſhall hereafter put into our hands, we ſhall improve it for ſetling and propagating Religion, and promoting the work of Reformation according to the Covenant, and in particular, to have the Liberties of the Kirk ratifi<g ref="char:EOLhyphen"/>ed, which have been many wayes encroached upon and violated, as is particularly inſtanced in the Declaration of the Generall Aſſembly.</p>
+            <p>Thirdly, to vindicate and eſtabliſh the liberty and property of the Subjects, who have been moſt grivouſ<g ref="char:EOLhyphen"/>ly oppreſſed in their Conſciences, Perſons and Eſtates.</p>
+            <p>Fourthly, that we ſhall endeavour the Kings Maje<g ref="char:EOLhyphen"/>ſties reſtitution to the exerciſe of his Royall Power, as ſoon as he ſhall give ſecurity for ſetling Religion in the manner expreſſed in the deſires of the late Commiſsi<g ref="char:EOLhyphen"/>on of the Kirk, and ſhall give ſatisfaction in ſuch other things as ſhall be found neceſſary for the Peace and ſafety of the Kingdomes.</p>
+            <p>Fifthly, That the late unlawfull Engagement againſt our Neighbour Nation of <hi>England,</hi> with whom we are
+<pb n="11" facs="tcp:101132:7" rendition="simple:additions"/>joyned in League and Covenant may be diſclaimed, and diſavowed by the Supream Authority of this Kingdome, it being moſt deſtructive to Religion, and to the Peace and Happineſſe of theſe Kingdomes.</p>
+            <p>Sixthly, To ſtrengthen and confirm the Peace and Union between the Kingdomes, which the Malignant Party hath ſo much endeavoured to breake and diſ<g ref="char:EOLhyphen"/>ſolve.</p>
+            <p>Seventhly, That we ſhall endeavour to Purge out of all the Judicatories in the Land, Malignancy and Pro<g ref="char:EOLhyphen"/>phaneneſſe, and uſe all other good means that Juſtice may be equally and Impartially adminiſtred to all the Subjects in the Kingdome, and that a more effectuall courſe may be taken throughout the whole Kingdome then heretofore, for puniſhing and ſuppreſſing all Pro<g ref="char:EOLhyphen"/>faneneſſe, Malignancy and Impiety.</p>
+            <p>Eighthly, All means having been uſed with great induſtry, to get Malignants choſen to be Commiſſio<g ref="char:EOLhyphen"/>ners to the laſt Parliament, and to prepoſſeſſe mens minds when they came to the Parliament, from which as a Fountain have iſſued all our troubles and diſtracti<g ref="char:EOLhyphen"/>ons. That we will faithfully endeavour to have a free Parliament, conſiſting of ſuch Perſons as have not been acceſſory to and furtherers of the late Engagement, for which end, we do again hereby require that in the electi<g ref="char:EOLhyphen"/>on of Commiſſioners from Burghs and Shires to the Parliament, the rules and directions ſet down in our Acts of the 22 of <hi>September</hi> laſt, and the fourth of this inſtant Moneth of <hi>October,</hi> may be punctually obſerved througout the Kingdome.</p>
+            <p>And we call the ſearcher of hearts to record that theſe are our reall and true intentions, and that we do
+<pb n="12" facs="tcp:101132:8"/>not, nor ſhall by the Grace of God purſue any private ends or intereſts of our own. And we truſt, the Lord our God who knoweth the ſincerity of our reſolutions, who hath alſo had mercy upon us, and hath begunne to do ſo gratiouſly for us, will aſſiſt us herein untill his work ſhall be accompliſhed.</p>
+            <p>And now laſt of all, ſince it is agreed upon in the Treaty, that all queſtions and differences about Religi<g ref="char:EOLhyphen"/>on, be referred to the determination of the Generall Aſſembly or their Commiſſioners, and that all Civill queſtions and differences be referred to the determinia<g ref="char:EOLhyphen"/>tion of a Parliament which is to ſit down before the Tenth of <hi>January</hi> next; We do exhort and require all and every one of the Subjects within this Kingdome, to live Peaceable and quietly, and to wait patiently for the determination aforeſaid, but in caſe any ſhall not reſt ſatisfied with, or ſhall reſile from the ſaid agree<g ref="char:EOLhyphen"/>ment, and ſhall continue, or riſe in Arms, or Levie any Forces without warrant from the Committee of Eſtates as it is now conſtituted, conſiſting of Perſons not acceſſory to the late Engagement. We do declare that they ſhall be eſteemed enemies to Religion, the King and Kingdome, and puniſhed as wilfull diſturbers of the Peace of the Kingdome.</p>
+            <closer>
+               <signed>Mr. THO. HENDERSON.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101132:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
